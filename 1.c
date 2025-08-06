@@ -1,2 +1,2 @@
 hello
-gud afternoon
+ afternoon
